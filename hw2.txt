@@ -8,15 +8,15 @@ Assignment is:
 5) Make a pull request
 
 Edit below:
-Person A's Name:
-Person B's Name:
+Person A's Name:Nicolas Raga
+Person B's Name:Chae Yoon Lee
 
 Question for A:
 1) What does git clone do?
-PUT YOUR ANSWER HERE
+Clone enables you to work on a public file on your own repository without making changes to the master or you just want a copy of it. The two main ways to get a Git repository is to either create a new one or to clone one. 
 
 2) What is a remote repository?
-PUT YOUR ANSWER HERE
+Remote repositories are 
 
 Question for B:
 1) Why is version-control framework such as git important?
