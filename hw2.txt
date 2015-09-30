@@ -16,11 +16,11 @@ Question for A:
 Clone enables you to work on a public file on your own repository without making changes to the master or you just want a copy of it. The two main ways to get a Git repository is to either create a new one or to clone one. 
 
 2) What is a remote repository?
-Remote repositories are 
+Remote repositories are versions of projects hosted on the internet or any network. 
 
 Question for B:
 1) Why is version-control framework such as git important?
-PUT YOUR ANSWER HERE
+Because it allow for teamwork where different people are able to simmulatenously work on a same project on their own machines while not jeopardize the project as a whole when a mistake is made as well as allows for private work than can later be reviewd and added. 
 
 2) Explain the concept of branching in git
-PUT YOUR ANSWER HERE
+Branching is making a copy of the master file that is like deviating a river where changes can be made but it could be redirect it make to the master with the new set of changes. This is significant since it allows for multiple different versions and changes that firstly, do not affect the master branch, and that can, secondly, be later editing and merged with the master.
